@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="happy_birthday_pollycute">Happy Birthday Pollycute</string>
+    <string name="this_is_a_surprise_pollycute">This_is_a_Surprise_pollycute</string>
+    <string name="happy_birthday_pollycute1">Happy_birthday_Pollycute</string>
+    <string name="This_is_a_surprise_pollycute">this_is_a_surprise_pollycute</string>
+    <string name="todo">TODO</string>
+    <string name="happy_Birthday_Pollycute">Happy Birthday_Pollycute</string>
+</resources>
